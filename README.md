@@ -275,3 +275,17 @@ BdsDxe: starting Boot0001 "UEFI QEMU QEMU CD-ROM " from PciRoot(0x0)/Pci(0x5,0x0
 
 ![Screenshot](resources/screenshot10.JPG)
 * Note this system has 2 CPUs and 8GiB of ram. Should deploy with 4 CPUs and 16GiB of ram to improve performance.
+
+16. Hit shift + F10 and type  OOBE\BYPASSNRO
+* Note this will force a reboot but allow you to create a local user without the network.
+* Continue with limited setup
+
+![Screenshot](resources/screenshot11.JPG)
+
+![Screenshot](resources/screenshot12.JPG)
+
+![Screenshot](resources/screenshot13.JPG)
+
+![Screenshot](resources/screenshot14.JPG)
+
+![Screenshot](resources/screenshot15.JPG)
