@@ -273,3 +273,5 @@ BdsDxe: starting Boot0001 "UEFI QEMU QEMU CD-ROM " from PciRoot(0x0)/Pci(0x5,0x0
 
 ![Screenshot](resources/screenshot09.JPG)
 
+![Screenshot](resources/screenshot10.JPG)
+* Note this system has 2 CPUs and 8GiB of ram. Should deploy with 4 CPUs and 16GiB of ram to improve performance.
